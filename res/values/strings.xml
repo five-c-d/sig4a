@@ -1480,7 +1480,7 @@
     <string name="registration_activity__skip">Skip</string>
     <string name="registration_activity__register">Register</string>
     <string name="preferences_chats__chat_backups">Chat backups</string>
-    <string name="preferences_chats__backup_chats_to_external_storage">Backup chats to external storage</string>
+    <string name="preferences_chats__backup_chats_media_and_safety_numbers_to_external_storage">Backup chats, media, and safety-numbers to external storage</string>
     <string name="preferences_chats__create_backup">Create backup</string>
     <string name="RegistrationActivity_enter_backup_passphrase">Enter backup passphrase</string>
     <string name="RegistrationActivity_restore">Restore</string>
@@ -1489,7 +1489,7 @@
     <string name="RegistrationActivity_checking">Checking...</string>
     <string name="RegistrationActivity_d_messages_so_far">%d messages so far...</string>
     <string name="RegistrationActivity_restore_from_backup">Restore from backup?</string>
-    <string name="RegistrationActivity_restore_your_messages_and_media_from_a_local_backup">Restore your messages and media from a local backup. If you don\'t restore now, you won\'t be able to restore later.</string>
+    <string name="RegistrationActivity_restore_your_chats_media_and_safety_numbers_from_a_local_backup">Restore your chats, media, and safety-numbers from a local backup. If you don\'t restore now, you won\'t be able to restore later.</string>
     <string name="RegistrationActivity_backup_size_s">Backup size: %s</string>
     <string name="RegistrationActivity_backup_timestamp_s">Backup timestamp: %s</string>
     <string name="BackupDialog_enable_local_backups">Enable local backups?</string>
