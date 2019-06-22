@@ -758,7 +758,7 @@ public class RegistrationActivity extends BaseActionBarActivity implements Verif
     subtitle.animate().translationX(subtitle.getWidth()).setDuration(SCENE_TRANSITION_DURATION).setListener(new AnimationCompleteListener() {
       @Override
       public void onAnimationEnd(Animator animation) {
-        subtitle.setText(R.string.RegistrationActivity_restore_your_messages_and_media_from_a_local_backup);
+        subtitle.setText(R.string.RegistrationActivity_restore_your_chats_media_and_safety_numbers_from_a_local_backup);
         subtitle.clearAnimation();
         subtitle.setTranslationX(-1 * subtitle.getWidth());
         subtitle.animate().translationX(0).setListener(null).setInterpolator(new OvershootInterpolator()).setDuration(SCENE_TRANSITION_DURATION).start();
