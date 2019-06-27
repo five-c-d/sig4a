@@ -11,7 +11,7 @@
     <TextView android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:textSize="12sp"
-              android:text="@string/backup_enable_dialog__backups_will_be_saved_to_external_storage_and_encrypted_with_the_passphrase_below_you_must_have_this_passphrase_in_order_to_restore_a_backup"/>
+              android:text="@string/backup_enable_dialog__backups_will_be_saved_to_external_storage_encrypted_with_the_passphrase_below"/>
 
     <TableLayout android:id="@+id/number_table"
                  android:layout_width="wrap_content"
