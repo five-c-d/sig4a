@@ -91,7 +91,7 @@
 
         <org.thoughtcrime.securesms.preferences.widgets.ProgressPreference
                 android:key="pref_backup_create"
-                android:title="@string/preferences_chats__create_backups_starting_now"
+                android:title="@string/preferences_chats__create_new_backup_now"
                 android:persistent="false"
                 android:dependency="pref_backup_enabled"
                 tools:summary="Last backup: 3 days ago"/>
