@@ -1479,9 +1479,9 @@
     <string name="registration_activity__restore_backup">Restore backup</string>
     <string name="registration_activity__skip">Skip</string>
     <string name="registration_activity__register">Register</string>
-    <string name="preferences_chats__chat_backups">Create backups</string>
+    <string name="preferences_chats__create_backups_every_24_hours">Create backups (every 24 hours)</string>
     <string name="preferences_chats__backup_chats_to_external_storage">Backup chats to external storage</string>
-    <string name="preferences_chats__create_backup">Create backups (starting now)</string>
+    <string name="preferences_chats__create_new_backup_now">Create new backup (now)</string>
     <string name="RegistrationActivity_enter_backup_passphrase">Enter backup passphrase</string>
     <string name="RegistrationActivity_restore">Restore</string>
     <string name="RegistrationActivity_backup_failure_downgrade">Cannot import backups from newer versions of Signal</string>
