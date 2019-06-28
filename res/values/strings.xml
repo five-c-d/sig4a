@@ -1474,7 +1474,7 @@
     <string name="ExperienceUpgradeActivity_unlock_to_complete_update">Unlock to complete update</string>
     <string name="ExperienceUpgradeActivity_please_unlock_signal_to_complete_update">Please unlock Signal to complete update</string>
     <string name="enter_backup_passphrase_dialog__backup_passphrase">Backup passphrase</string>
-    <string name="backup_enable_dialog__backups_will_be_saved_to_external_storage_and_encrypted_with_the_passphrase_below_you_must_have_this_passphrase_in_order_to_restore_a_backup">Backups will be saved to external storage, encrypted with the passphrase below. You must have this 30-digit passphrase in order to restore a backup later on.</string>
+    <string name="backup_enable_dialog__backups_will_be_saved_to_external_storage_encrypted_with_the_passphrase_below">Backups will be saved to external storage, encrypted with the passphrase below. You must have this 30-digit passphrase in order to restore a backup later on.</string>
     <string name="backup_enable_dialog__i_have_written_down_this_passphrase">I have written down this passphrase. Without it, I will be unable to restore a backup later on.</string>
     <string name="registration_activity__restore_backup">Restore backup</string>
     <string name="registration_activity__skip">Skip</string>
@@ -1500,7 +1500,7 @@
     <string name="BackupDialog_delete_backups_statement">Delete backups</string>
     <string name="BackupDialog_copied_to_clipboard">Copied to clipboard</string>
     <string name="ChatsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal requires external storage permission in order to create backups, but it has been permanently denied. Please continue to app settings, select \"Permissions\" and enable \"Storage\".</string>
-    <string name="ChatsPreferenceFragment_last_backup_s">Most recent backup: %s</string>
+    <string name="ChatsPreferenceFragment_most_recent_backup_s">Most recent backup: %s</string>
     <string name="ChatsPreferenceFragment_in_progress">In progress</string>
     <string name="LocalBackupJob_creating_backup">Creating backup...</string>
     <string name="ProgressPreference_d_messages_so_far">%d messages so far</string>
