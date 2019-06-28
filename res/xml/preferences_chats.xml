@@ -86,7 +86,7 @@
         <org.thoughtcrime.securesms.components.SwitchPreferenceCompat
                 android:defaultValue="false"
                 android:key="pref_backup_enabled"
-                android:title="@string/preferences_chats__create_backups"
+                android:title="@string/preferences_chats__create_backups_every_24_hours"
                 android:summary="@string/preferences_chats__backup_chats_to_external_storage" />
 
         <org.thoughtcrime.securesms.preferences.widgets.ProgressPreference
